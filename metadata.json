@@ -1,0 +1,5 @@
+{
+  "name": "DesignStudio Lite",
+  "description": "A powerful, web-based image editing tool similar to Canva. Features include drag-and-drop text/image manipulation, resizing, rotation, and PDF/Image export. Includes AI-powered text proofreading using Gemini.",
+  "requestFramePermissions": []
+}
